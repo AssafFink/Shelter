@@ -10,3 +10,9 @@ ul {
     color: darkmagenta;
     font-size: x-large;
 }
+
+.home-image {
+    width: 250px;
+    border: 1px solid black;
+}
+
